@@ -1,3 +1,5 @@
 {
-    "editor.acceptSuggestionOnEnter": "on"
+    "editor.acceptSuggestionOnEnter": "on",
+    "pieces.autocomplete": true,
+    "pieces.autocompleteKey": "Enter or Tab"
 }
